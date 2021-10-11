@@ -26,7 +26,7 @@ function App() {
   return (
     <main className="section">
       <header className="title">
-        <h2>Experiance</h2>
+        <h2>Experience</h2>
         <div className="underline"></div>
       </header>
       {tab.map((d) => {
